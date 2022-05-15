@@ -1,0 +1,44 @@
+body{
+  
+  margin: 20px;
+  background-color: rgb(244, 97, 6);
+  font-family: 'Permanent Marker', cursive;;
+  background-image: url("MONKEYART.jpeg");
+
+}
+
+h1 {
+
+border-bottom:solid rgb(25, 25, 112) ;
+border-width: 20px;
+}
+
+#faisalname {
+  font-family: 'Bebas Neue';
+  font-style: normal;
+  color: rgb(25, 25, 112);
+  font-size: 100px;
+}
+
+#subtitle {
+  font-family: 'Bebas Neue';
+  font-style: normal;
+  color: rgb(25, 25, 112);
+  font-size: 100px ;
+  border-bottom:solid rgb(25, 25, 112) ;
+  border-width: 20px;
+}
+
+nav ul{
+color: rgb(25, 25, 112) ;
+margin: 0;
+font-family: 'Permanent Marker', cursive;
+font-size: 40px;
+
+
+
+
+
+
+}
+
